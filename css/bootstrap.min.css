@@ -327,8 +327,9 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.42857143;
+    height: 100%;
     color: #000;
-    background-color: #fff;
+    background-color: #391313;
 }
 
 button,
@@ -341,7 +342,7 @@ textarea {
 }
 
 a {
-    color: #6b0000;
+    color: #cd15d2;
     text-decoration: none
 }
 
@@ -362,7 +363,9 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    width: 3000px;
+    height: fit-content;
 }
 
 .carousel-inner>.item>a>img,
