@@ -174,7 +174,11 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 25px 0;
+}
+
+.sm-padding {
+    padding-top: 25px;
 }
 
 /* Services */
